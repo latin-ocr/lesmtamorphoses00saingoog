@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./lesmtamorphoses00saingoog_0378.png"; bbox 0 0 1129 1590; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 201 123 909 126">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 201 123 909 126">
+     <span class='ocr_line' id='line_1_1' title="bbox 201 123 909 126; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 201 123 909 126; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 390 338 914 1131">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 390 338 914 1131">
+     <span class='ocr_line' id='line_1_2' title="bbox 390 338 914 1131; baseline 0 459"><span class='ocrx_word' id='word_1_2' title='bbox 390 338 914 1131; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 403 1139 901 1169">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 403 1139 901 1169">
+     <span class='ocr_line' id='line_1_3' title="bbox 403 1139 901 1169; baseline -0.004 -8"><span class='ocrx_word' id='word_1_3' title='bbox 403 1142 495 1161; x_wconf 73' lang='lat' dir='ltr'><strong>Cadmus</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 505 1144 541 1160; x_wconf 65' lang='lat' dir='ltr'><strong>tue</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 549 1141 572 1161; x_wconf 68' lang='lat' dir='ltr'><strong>le</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 586 1142 678 1169; x_wconf 69' lang='lat' dir='ltr'>Dragou</span> <span class='ocrx_word' id='word_1_7' title='bbox 700 1139 737 1168; x_wconf 73' lang='lat' dir='ltr'><strong>qui</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 755 1142 812 1161; x_wconf 61' lang='lat' dir='ltr'><strong>avon</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 824 1139 901 1160; x_wconf 52' lang='lat' dir='ltr'><strong>de&#39;vor&amp;</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 401 1187 862 1218">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 401 1187 862 1218">
+     <span class='ocr_line' id='line_1_4' title="bbox 401 1187 862 1218; baseline 0 -9"><span class='ocrx_word' id='word_1_10' title='bbox 401 1189 430 1210; x_wconf 71' lang='lat' dir='ltr'><strong>ses</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 447 1190 594 1218; x_wconf 62' lang='lat' dir='ltr'><strong>Compaguous</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 610 1189 661 1216; x_wconf 51' lang='lat' dir='ltr'><strong>prbs</strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 675 1189 703 1209; x_wconf 68' lang='lat' dir='ltr'><strong>de</strong></span> <span class='ocrx_word' id='word_1_14' title='bbox 714 1188 735 1210; x_wconf 76' lang='lat' dir='ltr'><strong>la</strong></span> <span class='ocrx_word' id='word_1_15' title='bbox 749 1187 862 1209; x_wconf 34' lang='lat' dir='ltr'><strong>Fonmiue*</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
